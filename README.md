@@ -12,7 +12,7 @@ I'm fast learning data analyst with a background in Statistics and IBM Data Anal
 - Tableau
 
 ## My Projects 
-- [synthetic-tb-x-ray-risk-factor-analysis] (....)
+- [synthetic-tb-x-ray-risk-factor-analysis] (https://github.com/Toviyah-tech/tb-risk-factor-analysis/tree/main)
 - [THE-STATISTICAL-MODELING-OF-400-LEVEL-STUDENTS-ACADEMIC-PERFORMANCE] (....)
 
 ## Currently Learning 
