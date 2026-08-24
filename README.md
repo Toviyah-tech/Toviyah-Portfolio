@@ -12,4 +12,5 @@ I'm fast learning data analyst with a background in Statistics and IBM Data Anal
 - Tableau
 
 ## My Projects 
+- [synthetic-tb-x-ray-risk-factor-analysis] (....)
 - 
