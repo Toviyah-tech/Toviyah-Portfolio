@@ -13,7 +13,7 @@ I'm fast learning data analyst with a background in Statistics and IBM Data Anal
 
 ## My Projects 
 - [synthetic-tb-x-ray-risk-factor-analysis] (https://github.com/Toviyah-tech/tb-risk-factor-analysis/tree/main)
-- [THE-STATISTICAL-MODELING-OF-400-LEVEL-STUDENTS-ACADEMIC-PERFORMANCE] (....)
+- [THE-STATISTICAL-MODELING-OF-400-LEVEL-STUDENTS-ACADEMIC-PERFORMANCE] (https://github.com/Toviyah-tech/THE-STATISTICAL-MODELING-OF-400-LEVEL-STUDENTS-ACADEMIC-PERFORMANCE/edit/main/README.md)
 
 ## Currently Learning 
 - Advanced SQL
