@@ -1,6 +1,6 @@
 # Hi, I'm Toviyah
 
-I'm a fast learning data analyst with a background in Statistics and IBM Data Analyst in Coursera - now building impactful projects in Excel, R, SQL, Tableau, and Python.
+I am a fast learning data analyst with a background in Statistics and IBM Data Analyst in Coursera - now building impactful projects in Excel, R, SQL, Tableau, and Python.
 
 ## Tools I work with
 - Microsoft Excel
@@ -20,3 +20,4 @@ I'm a fast learning data analyst with a background in Statistics and IBM Data An
 
 ## Let's connect!
 [Whatsapp](https://Whatsapp.com/dI/)
+|[Contact me](08164419480 / 08154391983)
