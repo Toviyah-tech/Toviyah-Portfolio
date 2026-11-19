@@ -15,9 +15,9 @@ I am a fast learning data analyst with a background in Statistics and IBM Data A
 - [synthetic-tb-x-ray-risk-factor-analysis] (https://github.com/Toviyah-tech/tb-risk-factor-analysis/tree/main)
 - [THE-STATISTICAL-MODELING-OF-400-LEVEL-STUDENTS-ACADEMIC-PERFORMANCE] (https://github.com/Toviyah-tech/THE-STATISTICAL-MODELING-OF-400-LEVEL-STUDENTS-ACADEMIC-PERFORMANCE/edit/main/README.md)
 - [Tracking-Earths-Temperature-Drivers-from-Natural-Variability-to-Anthropogenic-Dominance-using-SQL] (https://github.com/Toviyah-tech/Tracking-Earths-Temperature-Drivers-from-Natural-Variability-to-Anthropogenic-Dominance-using-SQL/edit/main/README.md)
+- [SEO Content Writing and Editorial] (https://github.com/Toviyah-tech/SEO-Writing-Content-and-Editorial-/blob/main/README.md)
 
-## Currently Learning 
-- Advanced SQL
+ 
 
 ## Let's connect!
 [Whatsapp](https://Whatsapp.com/dI/)
