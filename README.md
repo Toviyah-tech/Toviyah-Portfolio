@@ -1,6 +1,6 @@
 # Hi, I'm Toviyah
 
-I am a fast learning data analyst with a background in Statistics and IBM Data Analyst in Coursera - now building impactful projects in Excel, R, SQL, Tableau, and Python. Also an experienced SEO Content Writer, worked with Professional News sites like Global News Arena and Red Pepper News. I am also a Video Editor who makes Promotional Videos.
+I am a fast learning data analyst with a background in Statistics and IBM Data Analyst in Coursera - now building impactful projects in Excel, R, SQL, Tableau, and Python. Alongside Data Analysis, I am an experienced SEO Content Writer, I have worked with Professional News sites like Global News Arena and Red Pepper News, and additionally I am also a Video Editor engaging in Promotional Videos.
 
 ## Tools I work with
 - Microsoft Excel
